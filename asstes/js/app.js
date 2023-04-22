@@ -192,6 +192,7 @@ $(function () {
   // about page instagram js end
 
 
+  // shop details page js section start
   $('.releted_products_slider').slick({
     slidesToShow: 4,
     prevArrow: '<i class="fa-solid fa-arrow-left  releted_products_slider-arrow"></i>',
